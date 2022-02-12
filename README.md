@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at QBurst
-- 🌱 I’m currently learning Linux Commands
+- 🌱 I’m currently doing projects on Django 
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 🤔 I’m looking for help with Backend Development
 - 💬 Ask me about Python Lang
